@@ -1,0 +1,24 @@
+// SPDX Identifier-Lisence MIT 
+// pragma solidity ^0.08.19
+
+contract SafeMath Tester{
+
+  uint8 public bigNumber = 255;
+
+  function add() public {
+  unchecked {bigNumber  = bigNumber + 1;}
+
+function withdraw() public {
+// for loop
+// 0, 1, 2, 3 
+// for (/*starting index, ending index, step amount */ ) 
+for uint256 funderIndex = 0; funderIndex < funder.Length; funderIndex = funderIndex + 1;)
+}
+
+//reset the array
+payable.msg.sender).transfer(address(this).balance);
+require(sendSuccess, "sendFailed");
+//call
+
+  }
+]
