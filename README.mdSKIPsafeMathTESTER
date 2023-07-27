@@ -1,0 +1,2 @@
+# SendSuccessSendFail
+This smart contract will not only allow users to buy and sale on the blockchain, it will also revert the transaction is the sender has insufficient funds..
